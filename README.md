@@ -1,5 +1,5 @@
 # quote-unquote "recipes"
-TOP's recipes project
+[TOP's recipes project](https://www.theodinproject.com/lessons/foundations-recipes)
 
 fancy *fancy* html
 to be precise, a list
